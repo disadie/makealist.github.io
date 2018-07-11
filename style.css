@@ -1,0 +1,35 @@
+body {
+	font-family: 'Dancing Script', cursive;
+	font-size: 200%;
+	display: block;
+	text-align: center;
+	margin-top: 70px;
+	background: linear-gradient(to right, #F05D5E, #D8A47F);
+}
+
+#first {
+	text-align: center;
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+ul {
+	list-style: none;
+}
+
+#userinput {
+	padding: 10px 10px 10px 10px;
+	border-radius: 1em;
+	background-color: #FEFDEF;
+}
+
+#enter {
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	border-radius: 1em;
+	background-color: #FEFDEF;
+}
+
+.done {
+	text-decoration: line-through;
+}
